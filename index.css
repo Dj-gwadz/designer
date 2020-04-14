@@ -1,0 +1,30 @@
+#h2{
+  color: orange; 
+  column-span: none; 
+  background-color: purple;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ img{
+   background: seagreen;
+   border-right-color: skyblue;
+   align-content: center;
+   stop-color: violet;
+}
+ #nav{
+ vertical-align: auto;   
+ border-inline-start-color: yellow;
+ color: white;
+}
+.div{
+    background-color: red;
+    color: seagreen;
+    width: 0px;
+    margin: 0%;
+    font-size: 0%;
+}
+.p{
+    background: no-repeat;
+    background-color: white;
+}
