@@ -2,9 +2,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Merienda+One&display=swap');
 h1{
   font-family: 'Merienda One', cursive;
+  background-color: rosybrown;
 }
 .about p{
   font-size: 2rem;
 }
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background-color: rosybrown;
+  margin-top: 10px;
+}
+
 
 
